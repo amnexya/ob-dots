@@ -1,0 +1,6 @@
+picom &
+dunst &
+nitrogen --restore &
+tint2 -c /usr/share/tint2/horizontal-light-transparent.tint2rc &
+urxvt &
+conky -c ~/conky.conf &
